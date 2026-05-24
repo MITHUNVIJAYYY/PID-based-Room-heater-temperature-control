@@ -1,0 +1,10 @@
+1. MATLAB GUI Based PID Temperature Control System
+
+Developed a MATLAB GUI for analyzing and tuning a PID-based temperature control system. The interface allows modification and comparison of PID parameters (Kp, Ki, Kd) 
+while visualizing real-time temperature and PWM responses for performance evaluation. The GUI framework was adapted and further enhanced from an existing open-source implementation.
+
+2. Simulink Based Closed-Loop Temperature Control System
+
+Designed and simulated a closed-loop temperature control system in MATLAB Simulink using PID and PWM techniques. The system continuously compares desired and actual temperature,
+regulates heater power through PWM control, and models thermal behavior using transfer functions to achieve stable temperature regulation with minimal overshoot and improved 
+settling response.
